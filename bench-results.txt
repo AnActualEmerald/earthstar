@@ -1,0 +1,712 @@
+==== STEP 0 ====
+	Write image doc (0 images): 100ms
+	Write big doc (0 images): 417ms
+	Write text docs (0 images): 356ms
+	Query .txt docs (0 images): 2ms
+	Read all docs (0 images): 42ms
+
+==== STEP 1 ====
+	Write image doc (1 images): 98ms
+	Write big doc (1 images): 433ms
+	Write text docs (1 images): 348ms
+	Query .txt docs (1 images): 2ms
+	Read all docs (1 images): 60ms
+
+==== STEP 2 ====
+	Write image doc (2 images): 93ms
+	Write big doc (2 images): 426ms
+	Write text docs (2 images): 375ms
+	Query .txt docs (2 images): 2ms
+	Read all docs (2 images): 80ms
+
+==== STEP 3 ====
+	Write image doc (3 images): 87ms
+	Write big doc (3 images): 414ms
+	Write text docs (3 images): 363ms
+	Query .txt docs (3 images): 3ms
+	Read all docs (3 images): 96ms
+
+==== STEP 4 ====
+	Write image doc (4 images): 87ms
+	Write big doc (4 images): 424ms
+	Write text docs (4 images): 362ms
+	Query .txt docs (4 images): 3ms
+	Read all docs (4 images): 121ms
+
+==== STEP 5 ====
+	Write image doc (5 images): 93ms
+	Write big doc (5 images): 418ms
+	Write text docs (5 images): 365ms
+	Query .txt docs (5 images): 3ms
+	Read all docs (5 images): 143ms
+
+==== STEP 6 ====
+	Write image doc (6 images): 87ms
+	Write big doc (6 images): 422ms
+	Write text docs (6 images): 352ms
+	Query .txt docs (6 images): 3ms
+	Read all docs (6 images): 165ms
+
+==== STEP 7 ====
+	Write image doc (7 images): 96ms
+	Write big doc (7 images): 422ms
+	Write text docs (7 images): 346ms
+	Query .txt docs (7 images): 3ms
+	Read all docs (7 images): 184ms
+
+==== STEP 8 ====
+	Write image doc (8 images): 99ms
+	Write big doc (8 images): 415ms
+	Write text docs (8 images): 364ms
+	Query .txt docs (8 images): 3ms
+	Read all docs (8 images): 206ms
+
+==== STEP 9 ====
+	Write image doc (9 images): 92ms
+	Write big doc (9 images): 437ms
+	Write text docs (9 images): 382ms
+	Query .txt docs (9 images): 3ms
+	Read all docs (9 images): 252ms
+
+==== STEP 10 ====
+	Write image doc (10 images): 118ms
+	Write big doc (10 images): 465ms
+	Write text docs (10 images): 373ms
+	Query .txt docs (10 images): 3ms
+	Read all docs (10 images): 251ms
+
+==== STEP 11 ====
+	Write image doc (11 images): 83ms
+	Write big doc (11 images): 425ms
+	Write text docs (11 images): 360ms
+	Query .txt docs (11 images): 4ms
+	Read all docs (11 images): 271ms
+
+==== STEP 12 ====
+	Write image doc (12 images): 87ms
+	Write big doc (12 images): 423ms
+	Write text docs (12 images): 361ms
+	Query .txt docs (12 images): 4ms
+	Read all docs (12 images): 294ms
+
+==== STEP 13 ====
+	Write image doc (13 images): 90ms
+	Write big doc (13 images): 424ms
+	Write text docs (13 images): 364ms
+	Query .txt docs (13 images): 5ms
+	Read all docs (13 images): 319ms
+
+==== STEP 14 ====
+	Write image doc (14 images): 85ms
+	Write big doc (14 images): 424ms
+	Write text docs (14 images): 362ms
+	Query .txt docs (14 images): 4ms
+	Read all docs (14 images): 349ms
+
+==== STEP 15 ====
+	Write image doc (15 images): 83ms
+	Write big doc (15 images): 423ms
+	Write text docs (15 images): 363ms
+	Query .txt docs (15 images): 5ms
+	Read all docs (15 images): 360ms
+
+==== STEP 16 ====
+	Write image doc (16 images): 83ms
+	Write big doc (16 images): 421ms
+	Write text docs (16 images): 345ms
+	Query .txt docs (16 images): 3ms
+	Read all docs (16 images): 366ms
+
+==== STEP 17 ====
+	Write image doc (17 images): 90ms
+	Write big doc (17 images): 413ms
+	Write text docs (17 images): 345ms
+	Query .txt docs (17 images): 5ms
+	Read all docs (17 images): 407ms
+
+==== STEP 18 ====
+	Write image doc (18 images): 101ms
+	Write big doc (18 images): 425ms
+	Write text docs (18 images): 354ms
+	Query .txt docs (18 images): 6ms
+	Read all docs (18 images): 410ms
+
+==== STEP 19 ====
+	Write image doc (19 images): 91ms
+	Write big doc (19 images): 419ms
+	Write text docs (19 images): 361ms
+	Query .txt docs (19 images): 6ms
+	Read all docs (19 images): 456ms
+
+==== STEP 20 ====
+	Write image doc (20 images): 88ms
+	Write big doc (20 images): 431ms
+	Write text docs (20 images): 352ms
+	Query .txt docs (20 images): 6ms
+	Read all docs (20 images): 468ms
+
+==== STEP 21 ====
+	Write image doc (21 images): 92ms
+	Write big doc (21 images): 421ms
+	Write text docs (21 images): 342ms
+	Query .txt docs (21 images): 6ms
+	Read all docs (21 images): 623ms
+
+==== STEP 22 ====
+	Write image doc (22 images): 89ms
+	Write big doc (22 images): 456ms
+	Write text docs (22 images): 347ms
+	Query .txt docs (22 images): 4ms
+	Read all docs (22 images): 471ms
+
+==== STEP 23 ====
+	Write image doc (23 images): 90ms
+	Write big doc (23 images): 430ms
+	Write text docs (23 images): 356ms
+	Query .txt docs (23 images): 6ms
+	Read all docs (23 images): 570ms
+
+==== STEP 24 ====
+	Write image doc (24 images): 84ms
+	Write big doc (24 images): 447ms
+	Write text docs (24 images): 344ms
+	Query .txt docs (24 images): 7ms
+	Read all docs (24 images): 701ms
+
+==== STEP 25 ====
+	Write image doc (25 images): 94ms
+	Write big doc (25 images): 429ms
+	Write text docs (25 images): 356ms
+	Query .txt docs (25 images): 7ms
+	Read all docs (25 images): 719ms
+
+==== STEP 26 ====
+	Write image doc (26 images): 82ms
+	Write big doc (26 images): 453ms
+	Write text docs (26 images): 347ms
+	Query .txt docs (26 images): 5ms
+	Read all docs (26 images): 612ms
+
+==== STEP 27 ====
+	Write image doc (27 images): 91ms
+	Write big doc (27 images): 418ms
+	Write text docs (27 images): 366ms
+	Query .txt docs (27 images): 8ms
+	Read all docs (27 images): 643ms
+
+==== STEP 28 ====
+	Write image doc (28 images): 82ms
+	Write big doc (28 images): 423ms
+	Write text docs (28 images): 367ms
+	Query .txt docs (28 images): 8ms
+	Read all docs (28 images): 653ms
+
+==== STEP 29 ====
+	Write image doc (29 images): 82ms
+	Write big doc (29 images): 440ms
+	Write text docs (29 images): 352ms
+	Query .txt docs (29 images): 8ms
+	Read all docs (29 images): 805ms
+
+==== STEP 30 ====
+	Write image doc (30 images): 91ms
+	Write big doc (30 images): 421ms
+	Write text docs (30 images): 376ms
+	Query .txt docs (30 images): 8ms
+	Read all docs (30 images): 716ms
+
+==== STEP 31 ====
+	Write image doc (31 images): 83ms
+	Write big doc (31 images): 431ms
+	Write text docs (31 images): 345ms
+	Query .txt docs (31 images): 7ms
+	Read all docs (31 images): 748ms
+
+==== STEP 32 ====
+	Write image doc (32 images): 90ms
+	Write big doc (32 images): 420ms
+	Write text docs (32 images): 364ms
+	Query .txt docs (32 images): 9ms
+	Read all docs (32 images): 810ms
+
+==== STEP 33 ====
+	Write image doc (33 images): 91ms
+	Write big doc (33 images): 412ms
+	Write text docs (33 images): 356ms
+	Query .txt docs (33 images): 9ms
+	Read all docs (33 images): 731ms
+
+==== STEP 34 ====
+	Write image doc (34 images): 83ms
+	Write big doc (34 images): 407ms
+	Write text docs (34 images): 362ms
+	Query .txt docs (34 images): 9ms
+	Read all docs (34 images): 771ms
+
+==== STEP 35 ====
+	Write image doc (35 images): 88ms
+	Write big doc (35 images): 409ms
+	Write text docs (35 images): 355ms
+	Query .txt docs (35 images): 9ms
+	Read all docs (35 images): 991ms
+
+==== STEP 36 ====
+	Write image doc (36 images): 84ms
+	Write big doc (36 images): 452ms
+	Write text docs (36 images): 355ms
+	Query .txt docs (36 images): 9ms
+	Read all docs (36 images): 862ms
+
+==== STEP 37 ====
+	Write image doc (37 images): 84ms
+	Write big doc (37 images): 439ms
+	Write text docs (37 images): 368ms
+	Query .txt docs (37 images): 10ms
+	Read all docs (37 images): 860ms
+
+==== STEP 38 ====
+	Write image doc (38 images): 85ms
+	Write big doc (38 images): 421ms
+	Write text docs (38 images): 353ms
+	Query .txt docs (38 images): 9ms
+	Read all docs (38 images): 871ms
+
+==== STEP 39 ====
+	Write image doc (39 images): 92ms
+	Write big doc (39 images): 418ms
+	Write text docs (39 images): 369ms
+	Query .txt docs (39 images): 10ms
+	Read all docs (39 images): 888ms
+
+==== STEP 40 ====
+	Write image doc (40 images): 84ms
+	Write big doc (40 images): 419ms
+	Write text docs (40 images): 345ms
+	Query .txt docs (40 images): 10ms
+	Read all docs (40 images): 923ms
+
+==== STEP 41 ====
+	Write image doc (41 images): 93ms
+	Write big doc (41 images): 424ms
+	Write text docs (41 images): 361ms
+	Query .txt docs (41 images): 10ms
+	Read all docs (41 images): 957ms
+
+==== STEP 42 ====
+	Write image doc (42 images): 84ms
+	Write big doc (42 images): 430ms
+	Write text docs (42 images): 393ms
+	Query .txt docs (42 images): 12ms
+	Read all docs (42 images): 1096ms
+
+==== STEP 43 ====
+	Write image doc (43 images): 91ms
+	Write big doc (43 images): 442ms
+	Write text docs (43 images): 352ms
+	Query .txt docs (43 images): 11ms
+	Read all docs (43 images): 1010ms
+
+==== STEP 44 ====
+	Write image doc (44 images): 91ms
+	Write big doc (44 images): 417ms
+	Write text docs (44 images): 366ms
+	Query .txt docs (44 images): 11ms
+	Read all docs (44 images): 1146ms
+
+==== STEP 45 ====
+	Write image doc (45 images): 81ms
+	Write big doc (45 images): 438ms
+	Write text docs (45 images): 342ms
+	Query .txt docs (45 images): 11ms
+	Read all docs (45 images): 1141ms
+
+==== STEP 46 ====
+	Write image doc (46 images): 90ms
+	Write big doc (46 images): 446ms
+	Write text docs (46 images): 345ms
+	Query .txt docs (46 images): 9ms
+	Read all docs (46 images): 1170ms
+
+==== STEP 47 ====
+	Write image doc (47 images): 90ms
+	Write big doc (47 images): 446ms
+	Write text docs (47 images): 347ms
+	Query .txt docs (47 images): 11ms
+	Read all docs (47 images): 1263ms
+
+==== STEP 48 ====
+	Write image doc (48 images): 84ms
+	Write big doc (48 images): 418ms
+	Write text docs (48 images): 349ms
+	Query .txt docs (48 images): 11ms
+	Read all docs (48 images): 1225ms
+
+==== STEP 49 ====
+	Write image doc (49 images): 91ms
+	Write big doc (49 images): 421ms
+	Write text docs (49 images): 366ms
+	Query .txt docs (49 images): 12ms
+	Read all docs (49 images): 1147ms
+
+==== STEP 50 ====
+	Write image doc (50 images): 91ms
+	Write big doc (50 images): 415ms
+	Write text docs (50 images): 377ms
+	Query .txt docs (50 images): 13ms
+	Read all docs (50 images): 1313ms
+
+==== STEP 51 ====
+	Write image doc (51 images): 89ms
+	Write big doc (51 images): 405ms
+	Write text docs (51 images): 349ms
+	Query .txt docs (51 images): 12ms
+	Read all docs (51 images): 1478ms
+
+==== STEP 52 ====
+	Write image doc (52 images): 89ms
+	Write big doc (52 images): 434ms
+	Write text docs (52 images): 355ms
+	Query .txt docs (52 images): 12ms
+	Read all docs (52 images): 1216ms
+
+==== STEP 53 ====
+	Write image doc (53 images): 82ms
+	Write big doc (53 images): 416ms
+	Write text docs (53 images): 350ms
+	Query .txt docs (53 images): 14ms
+	Read all docs (53 images): 1256ms
+
+==== STEP 54 ====
+	Write image doc (54 images): 89ms
+	Write big doc (54 images): 418ms
+	Write text docs (54 images): 361ms
+	Query .txt docs (54 images): 13ms
+	Read all docs (54 images): 1267ms
+
+==== STEP 55 ====
+	Write image doc (55 images): 81ms
+	Write big doc (55 images): 415ms
+	Write text docs (55 images): 365ms
+	Query .txt docs (55 images): 13ms
+	Read all docs (55 images): 1291ms
+
+==== STEP 56 ====
+	Write image doc (56 images): 81ms
+	Write big doc (56 images): 418ms
+	Write text docs (56 images): 361ms
+	Query .txt docs (56 images): 14ms
+	Read all docs (56 images): 1306ms
+
+==== STEP 57 ====
+	Write image doc (57 images): 82ms
+	Write big doc (57 images): 417ms
+	Write text docs (57 images): 361ms
+	Query .txt docs (57 images): 14ms
+	Read all docs (57 images): 1327ms
+
+==== STEP 58 ====
+	Write image doc (58 images): 83ms
+	Write big doc (58 images): 420ms
+	Write text docs (58 images): 366ms
+	Query .txt docs (58 images): 14ms
+	Read all docs (58 images): 1352ms
+
+==== STEP 59 ====
+	Write image doc (59 images): 81ms
+	Write big doc (59 images): 453ms
+	Write text docs (59 images): 373ms
+	Query .txt docs (59 images): 14ms
+	Read all docs (59 images): 1475ms
+
+==== STEP 60 ====
+	Write image doc (60 images): 82ms
+	Write big doc (60 images): 409ms
+	Write text docs (60 images): 362ms
+	Query .txt docs (60 images): 15ms
+	Read all docs (60 images): 1328ms
+
+==== STEP 61 ====
+	Write image doc (61 images): 81ms
+	Write big doc (61 images): 406ms
+	Write text docs (61 images): 352ms
+	Query .txt docs (61 images): 14ms
+	Read all docs (61 images): 1332ms
+
+==== STEP 62 ====
+	Write image doc (62 images): 90ms
+	Write big doc (62 images): 402ms
+	Write text docs (62 images): 360ms
+	Query .txt docs (62 images): 15ms
+	Read all docs (62 images): 1349ms
+
+==== STEP 63 ====
+	Write image doc (63 images): 82ms
+	Write big doc (63 images): 407ms
+	Write text docs (63 images): 361ms
+	Query .txt docs (63 images): 15ms
+	Read all docs (63 images): 1371ms
+
+==== STEP 64 ====
+	Write image doc (64 images): 81ms
+	Write big doc (64 images): 406ms
+	Write text docs (64 images): 359ms
+	Query .txt docs (64 images): 14ms
+	Read all docs (64 images): 1384ms
+
+==== STEP 65 ====
+	Write image doc (65 images): 88ms
+	Write big doc (65 images): 410ms
+	Write text docs (65 images): 363ms
+	Query .txt docs (65 images): 15ms
+	Read all docs (65 images): 1403ms
+
+==== STEP 66 ====
+	Write image doc (66 images): 81ms
+	Write big doc (66 images): 415ms
+	Write text docs (66 images): 371ms
+	Query .txt docs (66 images): 16ms
+	Read all docs (66 images): 1708ms
+
+==== STEP 67 ====
+	Write image doc (67 images): 104ms
+	Write big doc (67 images): 438ms
+	Write text docs (67 images): 364ms
+	Query .txt docs (67 images): 16ms
+	Read all docs (67 images): 1480ms
+
+==== STEP 68 ====
+	Write image doc (68 images): 81ms
+	Write big doc (68 images): 413ms
+	Write text docs (68 images): 372ms
+	Query .txt docs (68 images): 15ms
+	Read all docs (68 images): 1513ms
+
+==== STEP 69 ====
+	Write image doc (69 images): 80ms
+	Write big doc (69 images): 413ms
+	Write text docs (69 images): 364ms
+	Query .txt docs (69 images): 16ms
+	Read all docs (69 images): 1581ms
+
+==== STEP 70 ====
+	Write image doc (70 images): 84ms
+	Write big doc (70 images): 416ms
+	Write text docs (70 images): 360ms
+	Query .txt docs (70 images): 16ms
+	Read all docs (70 images): 1571ms
+
+==== STEP 71 ====
+	Write image doc (71 images): 80ms
+	Write big doc (71 images): 415ms
+	Write text docs (71 images): 367ms
+	Query .txt docs (71 images): 17ms
+	Read all docs (71 images): 1609ms
+
+==== STEP 72 ====
+	Write image doc (72 images): 87ms
+	Write big doc (72 images): 417ms
+	Write text docs (72 images): 364ms
+	Query .txt docs (72 images): 17ms
+	Read all docs (72 images): 1616ms
+
+==== STEP 73 ====
+	Write image doc (73 images): 81ms
+	Write big doc (73 images): 412ms
+	Write text docs (73 images): 360ms
+	Query .txt docs (73 images): 17ms
+	Read all docs (73 images): 1629ms
+
+==== STEP 74 ====
+	Write image doc (74 images): 86ms
+	Write big doc (74 images): 419ms
+	Write text docs (74 images): 354ms
+	Query .txt docs (74 images): 17ms
+	Read all docs (74 images): 1663ms
+
+==== STEP 75 ====
+	Write image doc (75 images): 88ms
+	Write big doc (75 images): 410ms
+	Write text docs (75 images): 351ms
+	Query .txt docs (75 images): 17ms
+	Read all docs (75 images): 1687ms
+
+==== STEP 76 ====
+	Write image doc (76 images): 90ms
+	Write big doc (76 images): 434ms
+	Write text docs (76 images): 370ms
+	Query .txt docs (76 images): 18ms
+	Read all docs (76 images): 1706ms
+
+==== STEP 77 ====
+	Write image doc (77 images): 86ms
+	Write big doc (77 images): 416ms
+	Write text docs (77 images): 369ms
+	Query .txt docs (77 images): 17ms
+	Read all docs (77 images): 1728ms
+
+==== STEP 78 ====
+	Write image doc (78 images): 88ms
+	Write big doc (78 images): 415ms
+	Write text docs (78 images): 362ms
+	Query .txt docs (78 images): 18ms
+	Read all docs (78 images): 1722ms
+
+==== STEP 79 ====
+	Write image doc (79 images): 96ms
+	Write big doc (79 images): 422ms
+	Write text docs (79 images): 364ms
+	Query .txt docs (79 images): 18ms
+	Read all docs (79 images): 1745ms
+
+==== STEP 80 ====
+	Write image doc (80 images): 82ms
+	Write big doc (80 images): 424ms
+	Write text docs (80 images): 373ms
+	Query .txt docs (80 images): 18ms
+	Read all docs (80 images): 1874ms
+
+==== STEP 81 ====
+	Write image doc (81 images): 81ms
+	Write big doc (81 images): 416ms
+	Write text docs (81 images): 379ms
+	Query .txt docs (81 images): 19ms
+	Read all docs (81 images): 1926ms
+
+==== STEP 82 ====
+	Write image doc (82 images): 86ms
+	Write big doc (82 images): 424ms
+	Write text docs (82 images): 367ms
+	Query .txt docs (82 images): 19ms
+	Read all docs (82 images): 1825ms
+
+==== STEP 83 ====
+	Write image doc (83 images): 81ms
+	Write big doc (83 images): 411ms
+	Write text docs (83 images): 362ms
+	Query .txt docs (83 images): 19ms
+	Read all docs (83 images): 1863ms
+
+==== STEP 84 ====
+	Write image doc (84 images): 82ms
+	Write big doc (84 images): 416ms
+	Write text docs (84 images): 364ms
+	Query .txt docs (84 images): 19ms
+	Read all docs (84 images): 1883ms
+
+==== STEP 85 ====
+	Write image doc (85 images): 81ms
+	Write big doc (85 images): 412ms
+	Write text docs (85 images): 360ms
+	Query .txt docs (85 images): 19ms
+	Read all docs (85 images): 1920ms
+
+==== STEP 86 ====
+	Write image doc (86 images): 81ms
+	Write big doc (86 images): 416ms
+	Write text docs (86 images): 373ms
+	Query .txt docs (86 images): 19ms
+	Read all docs (86 images): 1933ms
+
+==== STEP 87 ====
+	Write image doc (87 images): 84ms
+	Write big doc (87 images): 421ms
+	Write text docs (87 images): 358ms
+	Query .txt docs (87 images): 20ms
+	Read all docs (87 images): 1946ms
+
+==== STEP 88 ====
+	Write image doc (88 images): 80ms
+	Write big doc (88 images): 408ms
+	Write text docs (88 images): 361ms
+	Query .txt docs (88 images): 20ms
+	Read all docs (88 images): 2083ms
+
+==== STEP 89 ====
+	Write image doc (89 images): 86ms
+	Write big doc (89 images): 430ms
+	Write text docs (89 images): 408ms
+	Query .txt docs (89 images): 18ms
+	Read all docs (89 images): 2259ms
+
+==== STEP 90 ====
+	Write image doc (90 images): 96ms
+	Write big doc (90 images): 422ms
+	Write text docs (90 images): 355ms
+	Query .txt docs (90 images): 18ms
+	Read all docs (90 images): 2130ms
+
+==== STEP 91 ====
+	Write image doc (91 images): 80ms
+	Write big doc (91 images): 419ms
+	Write text docs (91 images): 361ms
+	Query .txt docs (91 images): 21ms
+	Read all docs (91 images): 2230ms
+
+==== STEP 92 ====
+	Write image doc (92 images): 87ms
+	Write big doc (92 images): 430ms
+	Write text docs (92 images): 352ms
+	Query .txt docs (92 images): 16ms
+	Read all docs (92 images): 2178ms
+
+==== STEP 93 ====
+	Write image doc (93 images): 83ms
+	Write big doc (93 images): 425ms
+	Write text docs (93 images): 364ms
+	Query .txt docs (93 images): 22ms
+	Read all docs (93 images): 2266ms
+
+==== STEP 94 ====
+	Write image doc (94 images): 86ms
+	Write big doc (94 images): 432ms
+	Write text docs (94 images): 346ms
+	Query .txt docs (94 images): 18ms
+	Read all docs (94 images): 2225ms
+
+==== STEP 95 ====
+	Write image doc (95 images): 83ms
+	Write big doc (95 images): 437ms
+	Write text docs (95 images): 353ms
+	Query .txt docs (95 images): 19ms
+	Read all docs (95 images): 2317ms
+
+==== STEP 96 ====
+	Write image doc (96 images): 83ms
+	Write big doc (96 images): 421ms
+	Write text docs (96 images): 351ms
+	Query .txt docs (96 images): 16ms
+	Read all docs (96 images): 2295ms
+
+==== STEP 97 ====
+	Write image doc (97 images): 99ms
+	Write big doc (97 images): 423ms
+	Write text docs (97 images): 347ms
+	Query .txt docs (97 images): 19ms
+	Read all docs (97 images): 2213ms
+
+==== STEP 98 ====
+	Write image doc (98 images): 88ms
+	Write big doc (98 images): 426ms
+	Write text docs (98 images): 365ms
+	Query .txt docs (98 images): 22ms
+	Read all docs (98 images): 2214ms
+
+==== STEP 99 ====
+	Write image doc (99 images): 84ms
+	Write big doc (99 images): 413ms
+	Write text docs (99 images): 365ms
+	Query .txt docs (99 images): 22ms
+	Read all docs (99 images): 2241ms
+
+==== STEP 100 ====
+	Write image doc (100 images): 84ms
+	Write big doc (100 images): 430ms
+	Write text docs (100 images): 360ms
+	Query .txt docs (100 images): 23ms
+	Read all docs (100 images): 2256ms
+
+==== SIZE BREAKDOWN ====
+	Total bytes stored: 725 MB
+	Final .sqlite Size: 734 MB
+	Difference: 8.39 MB
+		
