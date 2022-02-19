@@ -1,7 +1,6 @@
 import * as Earthstar from "../../../mod.ts";
 import { bench, runBenchmarks } from "https://deno.land/std@0.126.0/testing/bench.ts";
 import { encode } from "https://deno.land/std@0.126.0/encoding/base64.ts";
-import { writeRandomDocs } from "../test-utils.ts";
 import { prettyBytes } from "https://deno.land/std@0.126.0/fmt/bytes.ts";
 
 /*
@@ -51,6 +50,19 @@ async function runSqliteBlobBenchmarks() {
 
     for (let i = 0; i <= imageCount; i++) {
         bench({
+            name: `Write text doc (Step ${i})`,
+            func: async (b) => {
+                b.start();
+                await replica.set(keypair, {
+                    content: `Hi ${i}!`,
+                    format: "es.4",
+                    path: `/text/${i}.txt`,
+                });
+                b.stop();
+            },
+        });
+
+        bench({
             name: `Write image doc (Step ${i})`,
             func: async (b) => {
                 b.start();
@@ -77,15 +89,6 @@ async function runSqliteBlobBenchmarks() {
         });
 
         bench({
-            name: `Write text docs (Step ${i})`,
-            func: async (b) => {
-                b.start();
-                await writeRandomDocs(keypair, replica, 5);
-                b.stop();
-            },
-        });
-
-        bench({
             name: `Query .txt docs (Step ${i})`,
             func: async (b) => {
                 b.start();
@@ -99,7 +102,51 @@ async function runSqliteBlobBenchmarks() {
         });
 
         bench({
-            name: `Read all docs (${i} images)`,
+            name: `Query .png docs (Step ${i})`,
+            func: async (b) => {
+                b.start();
+                await replica.queryDocs({
+                    filter: {
+                        pathEndsWith: ".png",
+                    },
+                });
+                b.stop();
+            },
+        });
+
+        bench({
+            name: `Query .jpg docs (Step ${i})`,
+            func: async (b) => {
+                b.start();
+                await replica.queryDocs({
+                    filter: {
+                        pathEndsWith: ".jpg",
+                    },
+                });
+                b.stop();
+            },
+        });
+
+        bench({
+            name: `Get single image doc (Step ${i})`,
+            func: async (b) => {
+                b.start();
+                await replica.getLatestDocAtPath(`/images/${i}.png`);
+                b.stop();
+            },
+        });
+
+        bench({
+            name: `Get single BIG image doc (Step ${i})`,
+            func: async (b) => {
+                b.start();
+                await replica.getLatestDocAtPath(`/images/${i}-big.jpg`);
+                b.stop();
+            },
+        });
+
+        bench({
+            name: `Read all docs (Step ${i})`,
             func: async (b) => {
                 b.start();
                 await replica.getAllDocs();
@@ -112,7 +159,7 @@ async function runSqliteBlobBenchmarks() {
 
     const sqliteStat = await Deno.stat("./bench-blob.sql");
 
-    const testChunks = sliceIntoChunks(results, 5);
+    const testChunks = sliceIntoChunks(results, 9);
 
     let text = "";
 
@@ -133,7 +180,7 @@ async function runSqliteBlobBenchmarks() {
     const totalBytes = (base64Size * imageCount) + (bigBase64Size * imageCount);
 
     text += `==== SIZE BREAKDOWN ====
-	Ideal bytes stored (raw): ${prettyBytes(totalBytes)} 
+	Ideal bytes stored (raw): ${prettyBytes(idealBytes)} 
 	Actual bytes stored (base64): ${prettyBytes(totalBytes)}
 	Final .sqlite Size: ${prettyBytes(sqliteStat.size)}
 		`;
@@ -153,11 +200,3 @@ function sliceIntoChunks<T>(arr: T[], chunkSize: number) {
 }
 
 await runSqliteBlobBenchmarks();
-
-// Create a sqlite storage.
-
-// Write a big doc
-// Get the big doc
-
-// Write some little docs
-// Get some little docs
